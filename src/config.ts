@@ -1,13 +1,13 @@
 export const SITE = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://blog.tiomadev.com/", // replace this with your deployed domain
   author: "Thiago Tioma",
   profile: "",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "Thiago Tioma — Dev Blog",
+  desc: "A place to share my thoughts and ideas about programming, technology, and other topics that interest me.",
+  title: "blog.tiomadev",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerIndex: 10,
-  postPerPage: 10,
+  postPerIndex: 5,
+  postPerPage: 5,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   showBackButton: true, // show back button in post detail

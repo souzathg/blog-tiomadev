@@ -1,15 +1,16 @@
 ---
-author: Sat Naing
-pubDatetime: 2022-09-23T04:58:53Z
+author: Thiago Tioma
+pubDatetime: 2026-05-01T16:00:00-03:00
 modDatetime: 2026-01-10T13:04:53.851Z
-title: How to configure AstroPaper theme
-slug: how-to-configure-astropaper-theme
-featured: true
+title: On the Hypervelocity Engineering hype
+slug: on-the-hypervelocity-engineering-hype
+featured: false
 draft: false
 tags:
-  - configuration
-  - docs
-description: How you can make AstroPaper theme absolutely yours.
+  - AI
+  - Software Engineering
+  - Hypervelocity Engineering
+description: Thinking about Software Engineering in AI-era
 ---
 
 AstroPaper is a highly customizable Astro blog theme. With AstroPaper, you can customize everything according to your personal taste. This article will explain how you can make some customizations easily in the config file.
