@@ -1,7 +1,7 @@
 export const SITE = {
   website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
   author: "Thiago Tioma",
-  profile: "https://github.com/souzathg/",
+  profile: "",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "Thiago Tioma — Dev Blog",
   ogImage: "astropaper-og.jpg",
@@ -12,7 +12,7 @@ export const SITE = {
   showArchives: true,
   showBackButton: true, // show back button in post detail
   editPost: {
-    enabled: true,
+    enabled: false,
     text: "Edit page",
     url: "https://github.com/souzathg/astro-paper/edit/main/",
   },
