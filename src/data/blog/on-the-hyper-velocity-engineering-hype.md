@@ -1,15 +1,16 @@
 ---
 author: Thiago Tioma
-pubDatetime: 2026-05-23T16:00:00-03:00
-modDatetime: 2026-01-10T13:04:53.851Z
+pubDatetime: 2026-05-23T15:00:00-03:00
+modDatetime: 2026-05-23T15:00:00-03:00
 title: Sobre o uso de IAs e capacidade cognitiva
-slug: on-the-hypervelocity-engineering-hype
+slug: ia-e-capacidade-cognitiva
 featured: false
 draft: false
 tags:
-  - AI
-  - Software Engineering
+  - IA
+  - Engenharia de Software
   - Hypervelocity Engineering
+  - Brio
 description: Pensando sobre Engeharia de Software na era da IA.
 ---
 
